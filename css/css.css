@@ -1,0 +1,54 @@
+/*
+* @Author: MACHENIKE
+* @Date:   2017-03-23 08:53:55
+* @Last Modified by:   MACHENIKE
+* @Last Modified time: 2017-03-23 11:26:24
+*/
+.post{
+	width: 404px;
+	height: 550px;
+	background: #fff;
+	margin: 0 auto;
+}
+.form{
+	width: 400px;
+	height: 40px;
+	border: 1px solid #CCCCCC;
+	margin-bottom: 20px;
+	line-height: 40px;
+	text-align: center;
+}
+#yhm{
+	outline: none;
+	border: 0;
+}
+#szmm{
+	outline: none;
+	border: 0;
+}
+#qrmm{
+	outline: none;
+	border: 0;
+}
+#zh0086{
+	outline: none;
+	border: 0;
+}
+.xy{
+	float: left;
+	width: 400px;
+	height: 50px;
+	margin-bottom: 20px;
+}
+.xy a{
+	text-decoration:none;	
+	color: #468FFF;	
+}
+.post .ljzc{
+	width: 400px;
+	height: 50px;
+	background: #EE2222;
+	color: #fff;
+	font-size: 18px;
+	text-align-last: center;
+}
